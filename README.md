@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohanScheepers
+- 👀 I’m interested in ...Node-Red, LoRaWAN, Flutter, InfluxDB, MySQL, C++, Dart
+- 🌱 I’m currently learning ... ALL of the above
+- 💞️ I’m looking to collaborate on ...Flutter
+- 📫 How to reach me ...scheepersjohanF@gmail.com
